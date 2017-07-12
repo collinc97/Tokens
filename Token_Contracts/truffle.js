@@ -38,7 +38,7 @@ module.exports = {
     development: { //truffle test hardcodes the "test" network.
       host: "localhost",
       port: "8545",
-      network_id: "default",
+      network_id: "*",
     }
   }
 };

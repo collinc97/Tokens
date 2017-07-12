@@ -1,0 +1,22 @@
+{
+  "contract_name": "TokenTester",
+  "abi": [
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "tokenContractAddress",
+      "outputs": [
+        {
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "payable": false,
+      "type": "function"
+    }
+  ],
+  "unlinked_binary": "0x60606040523415600b57fe5b5b60848061001a6000396000f300606060405263ffffffff60e060020a60003504166382edaf9481146020575bfe5b3415602757fe5b602d6049565b60408051600160a060020a039092168252519081900360200190f35b600054600160a060020a0316815600a165627a7a72305820032a109940bd7b84d5ceb702b2d18db57a87bbad4ec9ff02de92441e2cb5e1190029",
+  "networks": {},
+  "schema_version": "0.0.5",
+  "updated_at": 1499842292597
+}
